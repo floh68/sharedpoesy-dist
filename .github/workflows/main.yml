@@ -25,4 +25,4 @@ jobs:
         script: | 
           cd /var/pocketbase/pb_public 
           git pull origin main 
-          git statusqq
+          git status
